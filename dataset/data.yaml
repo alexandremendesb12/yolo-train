@@ -1,0 +1,5 @@
+train: /home/alexandre/develop/test/dataset/train/images
+val: /home/alexandre/develop/test/dataset/valid/images
+
+nc: 5
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']
